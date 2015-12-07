@@ -1,3 +1,5 @@
+# Written by Cameron Swinoga
+
 class gear:
     def __init__(self, teeth, inertia, s_inertia):
         self.teeth = teeth
